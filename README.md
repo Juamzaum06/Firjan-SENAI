@@ -1,5 +1,5 @@
 # Firjan-SENAI
 
-# Turma A
+# Turma B
 * Projeto 1
 * Iniciação ao HTML e CSS (Apresentação da linguagem)
